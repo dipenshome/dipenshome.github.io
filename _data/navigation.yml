@@ -5,11 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Academic"
-    url: /academic/
+#  - title: "Academic"
+#    url: /academic/
 
-  - title: "Professional"
-    url: /professional/
+#  - title: "Professional"
+#    url: /professional/
 
   - title: "Project, Thesis & Publications"
     url: /publications/ 
@@ -20,5 +20,5 @@ main:
   - title: "Presentation"
     url: /presentation/
 
-  - title: "Coding"
-    url: /codes/
+# - title: "Coding"
+#   url: /codes/
