@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " :diamond_shape_with_a_dot_inside: **Introduction** :diamond_shape_with_a_dot_inside: "
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
@@ -49,7 +49,7 @@ Training, Courses & Certifications
 - **Project Management Professional Certificate**
     --
     This course is offered by Google through Coursera Online Learning Platform. There are 5 modules in the course of which I completed 2.
-    1. Fundametals of Project Management 
-    2. Project Inititaion 
+    1. Fundametals of Project Management ✅ 
+    2. Project Inititaion ✅
 
 - **Python Programming**
