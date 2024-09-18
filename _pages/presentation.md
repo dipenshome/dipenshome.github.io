@@ -5,5 +5,4 @@ permalink: /presentation/
 author_profile: true
 ---
 
-# Presentations :bar_chart:
-## Here all presentations will be uploaded. 
+# Here all presentations will be uploaded. 
