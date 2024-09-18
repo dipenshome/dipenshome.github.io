@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello I am Dipen Shome :construction_worker_man:  hailing from Dhaka, Bangladesh :bangladesh:. Having completed my graduation on Mechanical Engineering from Bangladesh University of Engineering & Technology, I currently work as a Lead Operations Engineer for Turbine in Rooppur Nuclear Power Plant  
 
-**Academic Records**
+:mortar_board: ** Academic Records**
 ---
 
 - **Bachelor of Science in Mechanical Engineering** 
