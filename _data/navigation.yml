@@ -12,13 +12,13 @@ main:
     url: /professional/
 
   - title: "Project, Thesis & Publications"
-    url: /publications/
+    url: /publications/ 
     
   - title: "CV"
     #url: /files/CV.pdf
 
   - title: "Presentation"
-    url: /_presentation/
+    url: /presentation/
 
   - title: "Coding"
     url: /codes/
