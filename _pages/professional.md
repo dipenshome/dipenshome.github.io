@@ -5,7 +5,7 @@ permalink: /professional/
 author_profile: true
 ---
 1.  Position: **Assistant Manager (Engineering)**
-    Company: Nuclear Power Plant Company Bangladesh Limited(NPCBL)
+    Company: Nuclear Power Plant Company Bangladesh Limited(NPCBL) <br>
     Work Scope: *Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity*
     Duration: **June 2019 - cont.**
     Website: https://npcbl.gov.bd 
