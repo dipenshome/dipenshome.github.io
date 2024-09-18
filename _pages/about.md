@@ -12,31 +12,35 @@ redirect_from:
 :mortar_board: **Academic Records** :mortar_board: 
 ---
 
-1.  >**Bachelor of Science in Mechanical Engineering** 
-    * Bangladesh University of Engineering & Technology 
-    * *Result: CGPA 3.0 (out of 4.0)* 
+>**Bachelor of Science in Mechanical Engineering** 
+* Institution: Bangladesh University of Engineering & Technology 
+* *Result: CGPA 3.0 (out of 4.0)* 
 
-2. > **Higher Secondary School Certificate**
-    * Chittagong College, Chittagong
-    * *Result: GPA 5.0 (out of 5.0)*
+> **Higher Secondary School Certificate**
+* Chittagong College, Chittagong
+* *Result: GPA 5.0 (out of 5.0)*
 
-3. >**Secondary School Certificate**
-    * Ispahani Public School and College, Chittagong
-    * *Result: GPA 5.0 (out of 5.0)*
+>**Secondary School Certificate**
+* Ispahani Public School and College, Chittagong
+* *Result: GPA 5.0 (out of 5.0)*
+
+<br>
 
 :construction_worker_man: **Professional Experience** :construction_worker_man:
 ---
-1.  Position: **Assistant Manager (Engineering)**
-    <br> **Company:** *Nuclear Power Plant Company Bangladesh Limited(NPCBL)* 
-    <br> **Work Scope**: *Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity*
-    <br>**Duration:** *June 2019 - cont.*
-    <br>**Website:** https://npcbl.gov.bd 
+> Position: **Assistant Manager (Engineering)**
+* **Company:** *Nuclear Power Plant Company Bangladesh Limited(NPCBL)* 
+* **Work Scope**: *Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity*
+* **Duration:** *June 2019 - cont.*
+* **Website:** https://npcbl.gov.bd 
 
-2.  Position: **Assistant Engineer (Switchgear R&D)**
-    <br> **Company**: Energypac Engineering Ltd.
-    <br> **Work Scope**: *Research and Development of 32kV Gas-Insulated Switchgear, Fabrication*
-    <br> **Duration:** *October 2017 - June 2019*
-    <br> Website:
+> Position: **Assistant Engineer (Switchgear R&D)**
+* **Company**: Energypac Engineering Ltd.
+* **Work Scope**: *Research and Development of 32kV Gas-Insulated Switchgear, Fabrication*
+* **Duration:** *October 2017 - June 2019*
+* Website:
+
+<br>
 
 **Training, Courses & Certifications**
 ---
