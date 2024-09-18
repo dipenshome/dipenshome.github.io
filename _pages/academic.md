@@ -12,8 +12,8 @@ author_profile: true
 
 - **Higher Secondary School Certificate**
 <br> Chittagong College, Chittagong
-<br> *CGPA: 5.0 (out of 5.0)*
+<br> *GPA: 5.0 (out of 5.0)*
 
 - **Secondary School Certificate**
 <br> Ispahani Public School and College, Chittagong
-<br> *CGPA: 5.0 (out of 5.0)*
+<br> *GPA: 5.0 (out of 5.0)*
