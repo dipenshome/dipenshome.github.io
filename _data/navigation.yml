@@ -18,7 +18,7 @@ main:
     #url: /files/CV.pdf
 
   - title: "Presentation"
-    url: /presentation/
+    url: /_presentation/
 
   - title: "Coding"
     url: /codes/
