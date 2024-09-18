@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello I am Dipen Shome  hailing from Chittagong, located in southern part of Bangladesh :bangladesh:. Having completed my graduation on Mechanical Engineering from Bangladesh University of Engineering & Technology, I currently work as a Lead Operations Engineer for Turbine Department in Rooppur Nuclear Power Plant, country's first Nuclear Power Plant. Before that, I used to work as a R&D Engineer for Switchgear Department in Energypac Engineering Limited which is a renowned Power System Equipment manufacturer in Bangladesh. 
-
+<p> Hello I am Dipen Shome  hailing from Chittagong, located in southern part of Bangladesh :bangladesh:. Having completed my graduation on Mechanical Engineering from Bangladesh University of Engineering & Technology, I currently work as a Lead Operations Engineer for Turbine Department in Rooppur Nuclear Power Plant, country's first Nuclear Power Plant. Before that, I used to work as a R&D Engineer for Switchgear Department in Energypac Engineering Limited which is a renowned Power System Equipment manufacturer in Bangladesh. 
+</p>
 
 <br>
 
