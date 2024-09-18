@@ -9,22 +9,20 @@ redirect_from:
 <p> Hello I am Dipen Shome  hailing from Chittagong, located in southern part of Bangladesh :bangladesh:. Having completed my graduation on Mechanical Engineering from Bangladesh University of Engineering & Technology, I currently work as a Lead Operations Engineer for Turbine Department in Rooppur Nuclear Power Plant, country's first Nuclear Power Plant. Before that, I used to work as a R&D Engineer for Switchgear Department in Energypac Engineering Limited which is a renowned Power System Equipment manufacturer in Bangladesh. 
 </p>
 
-<br>
-
 :mortar_board: **Academic Records** :mortar_board: 
 ---
 
-- **Bachelor of Science in Mechanical Engineering** 
-<br> Bangladesh University of Engineering & Technology 
-<br> *CGPA: 3.0 (out of 4.0)* 
+1.  >**Bachelor of Science in Mechanical Engineering** 
+    * Bangladesh University of Engineering & Technology 
+    * *Result: CGPA 3.0 (out of 4.0)* 
 
-- **Higher Secondary School Certificate**
-<br> Chittagong College, Chittagong
-<br> *GPA: 5.0 (out of 5.0)*
+2. > **Higher Secondary School Certificate**
+    * Chittagong College, Chittagong
+    * *Result: GPA 5.0 (out of 5.0)*
 
-- **Secondary School Certificate**
-<br> Ispahani Public School and College, Chittagong
-<br> *GPA: 5.0 (out of 5.0)*
+3. >**Secondary School Certificate**
+    * Ispahani Public School and College, Chittagong
+    * *Result: GPA 5.0 (out of 5.0)*
 
 :construction_worker_man: **Professional Experience** :construction_worker_man:
 ---
@@ -40,16 +38,19 @@ redirect_from:
     <br> **Duration:** *October 2017 - June 2019*
     <br> Website:
 
-Training, Courses & Certifications
+**Training, Courses & Certifications**
 ---
-- **Lead Operations Engineer for Unit-1, Turbine Department**
-    -- 
-    Rosatom Technical Academy, Russia. 
+*  **Lead Operations Engineer for Unit-1, Turbine Department**
+     * Rosatom Technical Academy, Russia. 
 
-- **Project Management Professional Certificate**
-    --
-    This course is offered by Google through Coursera Online Learning Platform. There are 5 modules in the course of which I completed 2.
-    1. Fundametals of Project Management ✅ 
-    2. Project Inititaion ✅
+*  **Project Management Professional Certificate**
+    * This course is offered by Google through Coursera Online Learning Platform. The course comprises of 5 modules.
+        1. Fundametals of Project Management ✅ 
+        2. Project Inititaion ✅
+        3. Project Planning 
+        4. Project Execution
+        5. Project Completion
+        6. Capstone Project 
 
-- **Python Programming**
+*  **Programming for Everybody**
+    * This is an introductory level course dedicated for Python Programming Language offered by University of Michigan (UoM) through Coursera Online Learning Platform. 
