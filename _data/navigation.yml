@@ -19,3 +19,6 @@ main:
 
   - title: "Presentation"
     url: /presentation/
+
+  -title: "Coding"
+    url: /codes/
