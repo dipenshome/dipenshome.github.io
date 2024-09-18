@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Webpage"
+title                    : "Dipen's Webpage"
 title_separator          : "-"
 name                     : &name "DIPEN SHOME"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Mechanical Engineer | Technology Enthusiast | Gamer "
   location         : "Dhaka, Bangladesh"
-  employer         : "Nuclear Power Plant Company Bangladesh Limited"
+  employer         : "BUET"
   uri              : # URL
   email            : "shomedipen@gmail.com" 
 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
