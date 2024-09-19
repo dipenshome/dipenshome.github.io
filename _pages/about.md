@@ -8,8 +8,10 @@ redirect_from:
 ---
 ---
 <html>
+<head> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+</head>
 <body>
-
 <p style="text-align:justify ;text-indent:20px; font-size:16px;">
 <b style="font-size:30px ;">Hello,</b> 
 I am <strong style="font-size:20px;">Dipen Shome (Shourav)</strong> from Dhaka, Bangladesh, currently working as a <strong style="color:#191970;">Mechanical Engineer</strong> in my country's first <strong style="color:#BB2649;">Nuclear Power Station.</strong> Being a graduate of Bangladesh University of Engineering & Technology with a Bachelor degree in Mechanical Engineering, my professional journey has been marked by a passion for innovation and problem-solving. Working in a Nuclear Power Station is a chalenging but incredibly rewarding role as well. Every day, I am involved in ensuring safe and effiecient operaion of plant's process system equipment crucial for power generation. It requires a blend of technical knowledge, analytical thinking and attention to detail - something that I found both stimulating and deeply satisfying.</p>
