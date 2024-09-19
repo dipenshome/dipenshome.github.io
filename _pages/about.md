@@ -7,39 +7,17 @@ redirect_from:
   - /about.html
 ---
 ---
-<p> Hello I am Dipen Shome  hailing from Chittagong, located in southern part of Bangladesh :bangladesh:. Having completed my graduation on Mechanical Engineering from Bangladesh University of Engineering & Technology, I currently work as a Lead Operations Engineer for Turbine Department in Rooppur Nuclear Power Plant, country's first Nuclear Power Plant. Before that, I used to work as a R&D Engineer for Switchgear Department in Energypac Engineering Limited which is a renowned Power System Equipment manufacturer in Bangladesh. 
-</p>
+Hello, I am Dipen from Dhaka, Bangladesh, currently working as a Mechanical Engineer in my country's first Nuclear Power Station. Being a graduate of Bangladesh University of Engineering & Technology with a Bachelor degree in Mechanical Engineering, my professional journey has been marked by a passion for innovation and problem-solving. Working in a Nuclear Power Station is a chalenging but incredibly rewarding role as well. Every day, I am involved in ensuring safe and effiecient operaion of plant's process system equipment crucial for power generation. It requires a blend of technical knowledge, analytical thinking and attention to detail - something that I found both stimulating and deeply satisfying.
 
-:mortar_board: **Academic Records** :mortar_board: 
----
+I started my career as a Design Engineer in the Research & Development (R&D) Team of a renowned Power System Equipment Manufacturing Company in my country. In this role, I developed my skills in Design of Mechanical Components, specializing in the utilization of cutting-edge 3D Mechanical Design and Engineering Simulation Software such as SolidWorks, Ansys Workbench and PTC Creo.
 
->**Bachelor of Science in Mechanical Engineering** 
-* Institution: Bangladesh University of Engineering & Technology 
-* *Result: CGPA 3.0 (out of 4.0)* 
+As I continue to navigate the challeges of ever-evolving engineering landscape, my commitment remains unwavering - to drive progress, inspire innovation, and contribute meaningfully to the intersection of scrience and creativity.  
 
-> **Higher Secondary School Certificate**
-* Chittagong College, Chittagong
-* *Result: GPA 5.0 (out of 5.0)*
 
->**Secondary School Certificate**
-* Ispahani Public School and College, Chittagong
-* *Result: GPA 5.0 (out of 5.0)*
 
 <br>
 
-:construction_worker_man: **Professional Experience** :construction_worker_man:
----
-> Position: **Assistant Manager (Engineering)**
-* **Company:** *Nuclear Power Plant Company Bangladesh Limited(NPCBL)* 
-* **Work Scope**: *Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity*
-* **Duration:** *June 2019 - cont.*
-* **Website:** https://npcbl.gov.bd 
 
-> Position: **Assistant Engineer (Switchgear R&D)**
-* **Company**: Energypac Engineering Ltd.
-* **Work Scope**: *Research and Development of 32kV Gas-Insulated Switchgear, Fabrication*
-* **Duration:** *October 2017 - June 2019*
-* Website:
 
 <br>
 
