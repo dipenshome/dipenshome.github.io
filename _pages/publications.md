@@ -5,11 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 ---
+
 <h2>Undergrad Thesis</h2>
 <h3>Title: Design Basis Accident Analysis of Pressurized Water Nuclear Reactor</h3>
-<p style="text-align: left;">Superviser: Professor Dr. M.A. Rashid Sarker <br> Thesis Defense Date: September 10,2017</p>
-<blockquote><strong style="font-size: 18px;">Abstract</strong>
-<p style="text-indent: 20px;text-align: justify;">Nuclear Power is the cleanliest of all other power sources available with comparatively lowfuel cost and zero Carbon-di-Oxide (CO2) and other Green House Gas (GHG) emissions.
+<p style="text-align: right;">Superviser: <b>Professor Dr. M.A. Rashid Sarker</b> <br> Defense Date: September 10,2017</p>
+
+<p style="text-indent: 600px;text-align: justify; font-size: 14px; width: 600px;">
+<blockquote>
+<strong style="font-size: 20px;">Abstract</strong>
+<p style="text-indent: 20px;text-align: justify; font-size: 14px; width: 600px; height: 500px;">Nuclear Power is the cleanliest of all other power sources available with comparatively lowfuel cost and zero Carbon-di-Oxide (CO2) and other Green House Gas (GHG) emissions.
 Nuclear Power Plant (NPP) utilizes the heat generated from nuclear fission reaction of Uranium-235 to produce steam which then rotates “Turbine” and generates electricity. These
 NPPs are equipped with “state-of-the-art” safety equipment and protection systems to check
 any kind of harmful radiation to the outside environment. Despite these safety systems, an
@@ -26,8 +30,10 @@ specific PCTRAN model for VVER-1000 Pressurized Water Reactor has been used. The
 results obtained from the simulation show that, VVER-1000 active and passive safety systems
 is capable to mitigate the consequences of these accidents hence reducing the possibility of
 radioactivity release into the atmosphere.
-</p>
 </blockquote>
+</p>
+
 
 [Download Thesis](https://dipenshome.github.io/files/Thesis-Final.pdf) 
+
 
