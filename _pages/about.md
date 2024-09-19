@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ---
+
 <html>
 <body>
 <b style="font-size:30px; color: green; ">Hello!</b> 
@@ -15,7 +16,7 @@ redirect_from:
  <p style="text-align:justify ;text-indent:20px;">I started my career as a <em>Design Engineer </em>in the Research & Development (R&D) Team of a renowned Power System Equipment Manufacturing Company in my country. In this role, I developed my skills in Design of Mechanical Components, specializing in the utilization of cutting-edge 3D Mechanical Design and Engineering Simulation Software such as <em>SolidWorks, Ansys Workbench and PTC Creo.</em>
 </p>
 
-<p style="text-align:justify ;text-indent:20px"> As I continue to navigate the challeges of ever-evolving engineering landscape, my commitment remains unwavering - to drive progress, inspire innovation, and contribute meaningfully to the intersection of scrience and creativity.
+<p style="text-align:justify ;text-indent:20px;"> As I continue to navigate the challeges of ever-evolving engineering landscape, my commitment remains unwavering - to drive progress, inspire innovation, and contribute meaningfully to the intersection of scrience and creativity.
 </p>
 </body>
 </html>
