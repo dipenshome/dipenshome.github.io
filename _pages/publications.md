@@ -4,6 +4,7 @@ title: "Project, Thesis & Publications"
 permalink: /publications/
 author_profile: true
 ---
+---
 <h2>Undergrad Thesis</h2>
 <h3>Title: Design Basis Accident Analysis of Pressurized Water Nuclear Reactor</h3>
 <p style="text-align: left;">Superviser: Professor Dr. M.A. Rashid Sarker <br> Thesis Defense Date: September 10,2017</p>
