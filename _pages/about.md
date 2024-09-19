@@ -13,27 +13,4 @@ I started my career as a Design Engineer in the Research & Development (R&D) Tea
 
 As I continue to navigate the challeges of ever-evolving engineering landscape, my commitment remains unwavering - to drive progress, inspire innovation, and contribute meaningfully to the intersection of scrience and creativity.  
 
-
-
-<br>
-
-
-
-<br>
-
-**Training, Courses & Certifications**
 ---
-*  **Lead Operations Engineer for Unit-1, Turbine Department**
-     * Rosatom Technical Academy, Russia. 
-
-*  **Project Management Professional Certificate**
-    * This course is offered by Google through Coursera Online Learning Platform. The course comprises of 5 modules.
-        1. Fundametals of Project Management ✅ 
-        2. Project Inititaion ✅
-        3. Project Planning 
-        4. Project Execution
-        5. Project Completion
-        6. Capstone Project 
-
-*  **Programming for Everybody**
-    * This is an introductory level course dedicated for Python Programming Language offered by University of Michigan (UoM) through Coursera Online Learning Platform. 
