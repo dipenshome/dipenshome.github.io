@@ -6,6 +6,8 @@ author_profile: true
 ---
 ---
 
+<html>
+<body style="width: 800px;">
 <h2>Undergrad Thesis</h2>
 <h3>Title: Design Basis Accident Analysis of Pressurized Water Nuclear Reactor</h3>
 <p style="text-align: right;">Superviser: <b>Professor Dr. M.A. Rashid Sarker</b> <br> Defense Date: September 10,2017</p>
@@ -13,7 +15,7 @@ author_profile: true
 <p style="text-indent: 600px;text-align: justify; font-size: 14px; width: 600px;">
 <blockquote>
 <strong style="font-size: 20px;">Abstract</strong>
-<p style="text-indent: 20px;text-align: justify; font-size: 14px; width: 600px; height: 500px;">Nuclear Power is the cleanliest of all other power sources available with comparatively lowfuel cost and zero Carbon-di-Oxide (CO2) and other Green House Gas (GHG) emissions.
+<p style="text-indent: 20px;text-align: justify; font-size: 14px;">Nuclear Power is the cleanliest of all other power sources available with comparatively lowfuel cost and zero Carbon-di-Oxide (CO2) and other Green House Gas (GHG) emissions.
 Nuclear Power Plant (NPP) utilizes the heat generated from nuclear fission reaction of Uranium-235 to produce steam which then rotates “Turbine” and generates electricity. These
 NPPs are equipped with “state-of-the-art” safety equipment and protection systems to check
 any kind of harmful radiation to the outside environment. Despite these safety systems, an
@@ -36,4 +38,5 @@ radioactivity release into the atmosphere.
 
 [Download Thesis](https://dipenshome.github.io/files/Thesis-Final.pdf) 
 
-
+</body>
+</html>
