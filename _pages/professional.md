@@ -32,15 +32,15 @@ author_profile: true
 *  **Project Management Professional Certificate**
 
     -This course is offered by Google through Coursera Online Learning Platform. The course comprises of 5 modules. I successfully completed 2 of them.
-        * *Fundamentals of Project Management* [Certificate]
-        * *Project Initiation: Starting a Successful Project* [Certificate]
+        - *Fundamentals of Project Management* [Certificate]
+        - *Project Initiation: Starting a Successful Project* [Certificate]
 
 *  **Programming for Everybody**
    
    -This is an introductory level course dedicated for Python Programming Language offered by University of Michigan (UoM) through Coursera Online Learning Platform. The course comprises of 5 modules. I successfully completed 3 of them.
-        * *Programming for Everybody (Getting Started with Python)* [Certificate]
-        * *Pyhon Data Structure* [Certificate]
-        * *Using Python to access Web Data* [Certificate]
+        - *Programming for Everybody (Getting Started with Python)* [Certificate]
+        - *Pyhon Data Structure* [Certificate]
+        - *Using Python to access Web Data* [Certificate]
 
 **Membership**
 ---
