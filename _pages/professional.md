@@ -44,4 +44,4 @@ author_profile: true
 
 **Membership**
 ---
-*Member* at **American Society of Mechanical Engineers (ASME)**
+*   *Member* at **American Society of Mechanical Engineers (ASME)**
