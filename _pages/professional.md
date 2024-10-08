@@ -23,7 +23,7 @@ ___
 ___
 *  **Lead Operations Engineer for Unit-1, Turbine Department**
     - completed training on ***Installation, Operation and Maintenance of Steam Turbine and its auxiliary equipment*** at *Rosatom Technical Academy, Russian Federation* 
-    - **Training Duration:** September 2019 - November 2020 (14 Months)
+    - **Training Duration:** *September 2019 - November 2020 (14 Months)*
 
 *   **Industrial Trainee**
     - gained hands-on knowledge on manufacturing of Distribution Transformer at *General Electric Manufacturing Company Limited (GEMCO), Chittagong, Bangladesh* as per the requirement of mandatory "Industrial Attachment" course at the University.
@@ -36,15 +36,15 @@ ___
 *  **Project Management Professional Certificate**
 
     - This course is offered by Google through Coursera Online Learning Platform. The course comprises of 5 modules. I successfully completed 2 of them.
-        1. *Fundamentals of Project Management* [Certificate]()
-        2. *Project Initiation: Starting a Successful Project* [Certificate]()
+        1. *Fundamentals of Project Management* [Certificate](https://dipenshome.github.io/files/Coursera-UD7KBD2HC47Y.pdf)
+        2. *Project Initiation: Starting a Successful Project* [Certificate](https://dipenshome.github.io/files/Coursera-FYCW8USXDCXF.pdf)
 
 *  **Programming for Everybody**
    
     - This is an introductory level course dedicated for Python Programming Language offered by *University of Michigan (UoM)* through Coursera Online Learning Platform. The course comprises of 5 modules. I successfully completed 3 of them.
-        1. *Programming for Everybody (Getting Started with Python)* [Certificate]()
-        2. *Pyhon Data Structure* [Certificate]()
-        3. *Using Python to access Web Data* [Certificate]()
+        1. *Programming for Everybody (Getting Started with Python)* [Certificate](https://dipenshome.github.io/files/Coursera-P63V7M5Z8QLT.pdf)
+        2. *Pyhon Data Structure* [Certificate](https://dipenshome.github.io/files/Coursera-DVRP087YOUFF.pdf)
+        3. *Using Python to access Web Data* [Certificate](https://dipenshome.github.io/files/Coursera-PC6ELRQGNJSA.pdf)
 
 **Membership**
 ---
