@@ -6,6 +6,7 @@ author_profile: true
 ---
 :construction_worker_man: **Professional Experience** :construction_worker_man:
 ---
+___
 1. Position: **Assistant Manager (Engineering)**
      
     - **Company:** *Nuclear Power Plant Company Bangladesh Limited(NPCBL)* 
@@ -19,28 +20,31 @@ author_profile: true
 
 **Training**
 ---
+___
 *  **Lead Operations Engineer for Unit-1, Turbine Department**
     - completed training on Installation, Operation and Maintenance of Steam Turbine at *Rosatom Technical Academy, Russian Federation* 
-    - Training Duration: 14 Months (September 2019 - November 2020)
+    - Training Duration: September 2019 - November 2020 (14 Months)
 
 *   **Industrial Trainee**
-    *- gained hands-on experience on manufacturing of Distribution Transformer at *General Electric Manufacturing Company Limited (GEMCO), Chittagong, Bangladesh* as per the requirement of mandatory "Industrial Attachment" course at the University.
+    - gained hands-on experience on manufacturing of Distribution Transformer at *General Electric Manufacturing Company Limited (GEMCO), Chittagong, Bangladesh* as per the requirement of mandatory "Industrial Attachment" course at the University.
+
 
 **Courses and Certifications**
 ---
+___
 
 *  **Project Management Professional Certificate**
 
-    *- This course is offered by Google through Coursera Online Learning Platform. The course comprises of 5 modules. I successfully completed 2 of them.
-        - *Fundamentals of Project Management* [Certificate]
-        - *Project Initiation: Starting a Successful Project* [Certificate]
+    This course is offered by Google through Coursera Online Learning Platform. The course comprises of 5 modules. I successfully completed 2 of them.
+        1.*Fundamentals of Project Management* [Certificate]
+        2.*Project Initiation: Starting a Successful Project* [Certificate]
 
 *  **Programming for Everybody**
    
-*   This is an introductory level course dedicated for Python Programming Language offered by *University of Michigan (UoM)* through Coursera Online Learning Platform. The course comprises of 5 modules. I successfully completed 3 of them.
-        - *Programming for Everybody (Getting Started with Python)* [Certificate]
-        - *Pyhon Data Structure* [Certificate]
-        - *Using Python to access Web Data* [Certificate]
+    This is an introductory level course dedicated for Python Programming Language offered by *University of Michigan (UoM)* through Coursera Online Learning Platform. The course comprises of 5 modules. I successfully completed 3 of them.
+        1.*Programming for Everybody (Getting Started with Python)* [Certificate]
+        2.*Pyhon Data Structure* [Certificate]
+        3.*Using Python to access Web Data* [Certificate]
 
 **Membership**
 ---
