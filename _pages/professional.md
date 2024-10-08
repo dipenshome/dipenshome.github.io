@@ -6,7 +6,6 @@ author_profile: true
 ---
 :construction_worker_man: **Professional Experience** :construction_worker_man:
 ---
-___
 1. Position: **Assistant Manager (Engineering)**
      
     - **Company:** *Nuclear Power Plant Company Bangladesh Limited(NPCBL)* 
@@ -20,7 +19,6 @@ ___
 
 **Training**
 ---
-___
 *  **Lead Operations Engineer for Unit-1, Turbine Department**
     - completed training on ***Installation, Operation and Maintenance of Steam Turbine and its auxiliary equipment*** at *Rosatom Technical Academy, Russian Federation* 
     - **Training Duration:** *September 2019 - November 2020 (14 Months)*
@@ -31,8 +29,6 @@ ___
 
 **Courses and Certifications**
 ---
-___
-
 *  **Project Management Professional Certificate**
 
     - This course is offered by Google through Coursera Online Learning Platform. The course comprises of 5 modules. I successfully completed 2 of them.
@@ -48,7 +44,5 @@ ___
 
 **Membership**
 ---
-___
-
 *   *Member* at **American Society of Mechanical Engineers (ASME)**
 *   *Member* at **Nuclear Engineering Club, BUET**
