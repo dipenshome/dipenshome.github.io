@@ -37,11 +37,13 @@ author_profile: true
 
 *  **Programming for Everybody**
    
-    *- This is an introductory level course dedicated for Python Programming Language offered by *University of Michigan (UoM)* through Coursera Online Learning Platform. The course comprises of 5 modules. I successfully completed 3 of them.
+*   This is an introductory level course dedicated for Python Programming Language offered by *University of Michigan (UoM)* through Coursera Online Learning Platform. The course comprises of 5 modules. I successfully completed 3 of them.
         - *Programming for Everybody (Getting Started with Python)* [Certificate]
         - *Pyhon Data Structure* [Certificate]
         - *Using Python to access Web Data* [Certificate]
 
 **Membership**
 ---
+___
+
 *   *Member* at **American Society of Mechanical Engineers (ASME)**
