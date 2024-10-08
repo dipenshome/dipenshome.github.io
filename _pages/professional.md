@@ -27,7 +27,7 @@ author_profile: true
      - gained hands-on experience on manufacturing of Distribution Transformer at *General Electric Manufacturing Company Limited (GEMCO), Chittagong, Bangladesh* as per the  requirement of mandatory "Industrial Attachment" course at the University.
 
 **Courses and Certifications**
-___
+---
 
 *  **Project Management Professional Certificate**
 
@@ -43,6 +43,5 @@ ___
         * *Using Python to access Web Data* [Certificate]
 
 **Membership**
-___
-
+---
     - Member at American Society of Mechanical Engineers (ASME)
