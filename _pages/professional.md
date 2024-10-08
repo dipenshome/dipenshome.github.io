@@ -20,7 +20,7 @@ author_profile: true
 **Training**
 ---
 *  **Lead Operations Engineer for Unit-1, Turbine Department**
-    - completed training on ***Installation, Operation and Maintenance of Steam Turbine and its auxiliary equipment*** at *Rosatom Technical Academy, Russian Federation* 
+    - completed training on ***"Installation, Operation and Maintenance of Steam Turbine and its auxiliary equipment"*** at *Rosatom Technical Academy, Russian Federation* 
     - **Training Duration:** *September 2019 - November 2020 (14 Months)*
 
 *   **Industrial Trainee**
