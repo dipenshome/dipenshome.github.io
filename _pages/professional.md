@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "Professional Experience"
+title: ""
 permalink: /professional/
 author_profile: true
 ---
 :construction_worker_man: **Professional Experience** :construction_worker_man:
 ---
-1. Position: **Assistant Manager (Engineering)**
-     
+<div style="text-align: justify;">
+
+1. Position: **Assistant Manager (Engineering)** 
     - **Company:** *Nuclear Power Plant Company Bangladesh Limited(NPCBL)* 
     - **Work Scope:** *Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity and its auxiliary equipment*
     - **Duration:** *June 2019 - cont.*
@@ -46,3 +47,6 @@ author_profile: true
 ---
 *   *Member* at **American Society of Mechanical Engineers (ASME)**
 *   *Member* at **Nuclear Engineering Club, BUET**
+
+</div>
+
