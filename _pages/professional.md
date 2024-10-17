@@ -6,7 +6,6 @@ author_profile: true
 ---
 :construction_worker_man: **Professional Experience** :construction_worker_man:
 ---
-<div style="text-align: justify;">
 
 1. Position: **Assistant Manager (Engineering)** 
     - **Company:** *Nuclear Power Plant Company Bangladesh Limited(NPCBL)* 
@@ -47,6 +46,4 @@ author_profile: true
 ---
 *   *Member* at **American Society of Mechanical Engineers (ASME)**
 *   *Member* at **Nuclear Engineering Club, BUET**
-
-</div>
 
