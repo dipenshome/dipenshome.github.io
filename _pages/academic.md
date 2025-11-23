@@ -4,7 +4,6 @@ title: "Academic Records"
 permalink: /academic/
 author_profile: true
 ---
-<h1>:mortar_board: Academic Records :mortar_board:</h1>
 <hr>
 
 ><h2>University</h2>
