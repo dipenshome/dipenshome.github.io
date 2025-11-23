@@ -6,23 +6,29 @@ author_profile: true
 ---
 <hr>
 
-><h2>University</h2>
+><h2>Bangladesh University of Engineering and Technology</h2>
+ 
+* Degree: **Bachelor of Science in Mechanical Engineering**
+* Major: Nuclear Engineering  
+* Result: GPA 0.0 (out of 4.0)
+* Year: 2012-2017
+* Location: Dhaka, Bangladesh
 
-**Bachelor of Science in Mechanical Engineering** 
-* Institution: Bangladesh University of Engineering & Technology 
-* *Result: CGPA 3.0 (out of 4.0)* 
+><h2>Chittagong College, Chittagong</h2>
 
-><h2>College</h2>
+* Degree: **Higher Secondary School Certificate**
+* Major: Science
+* Result: GPA 5.0 (out of 5.0)
+* Year: 2009-2011
+* Location: Chittagong, Bangladesh
 
-**Higher Secondary School Certificate**
-* Chittagong College, Chittagong
-* *Result: GPA 5.0 (out of 5.0)*
+><h2>Ispahani Public School and College, Chittagongl</h2>
 
-><h2>School</h2>
-
-**Secondary School Certificate**
-* Ispahani Public School and College, Chittagong
-* *Result: GPA 5.0 (out of 5.0)*
+* Degree: **Secondary School Certificate**
+* Major: Science
+* Result: GPA 5.0 (out of 5.0)
+* Year: 2004-2009
+* Location: Chittagong, Bangladesh
 
 ><h2>Academic Project</h2>
 
