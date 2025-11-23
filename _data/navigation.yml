@@ -20,5 +20,8 @@ main:
   - title: "HTML Test Page"
     url: /test/
 
+  - title: "Courses and Certifications"
+    url: /course/
+
 # - title: "Coding"
 #   url: //
