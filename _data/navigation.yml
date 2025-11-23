@@ -13,15 +13,15 @@ main:
 
   - title: "Thesis & Publications"
     url: /publications/ 
-    
-  - title: "CV"
-    url: /files/CV_Dipen.pdf
-
-  - title: "HTML Test Page"
-    url: /test/
 
   - title: "Courses and Certifications"
     url: /course/
+
+  - title: "CV"
+    url: /files/CV_Dipen.pdf
+
+  - title: "Test Page"
+    url: /test/
 
 # - title: "Coding"
 #   url: //
