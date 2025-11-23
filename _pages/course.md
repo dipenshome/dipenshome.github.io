@@ -8,6 +8,8 @@ author_profile: true
 
 **Courses and Certifications**
 ---
+
+
 *  **Project Management Professional Certificate [Coursera]**
 
     - This course is offered by Google Career. The course comprises of 5 modules. I successfully completed 2 of them.
