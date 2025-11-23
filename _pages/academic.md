@@ -1,29 +1,26 @@
 ---
 layout: archive
-title: ""
+title: ":mortar_board: **Academic Records** :mortar_board:"
 permalink: /academic/
 author_profile: true
 ---
-:mortar_board: **Academic Records** :mortar_board: 
----
 
 >**University**
-
 **Bachelor of Science in Mechanical Engineering** 
 * Institution: Bangladesh University of Engineering & Technology 
 * *Result: CGPA 3.0 (out of 4.0)* 
 
 >**College**
-
-> **Higher Secondary School Certificate**
+**Higher Secondary School Certificate**
 * Chittagong College, Chittagong
 * *Result: GPA 5.0 (out of 5.0)*
 
->**Secondary School Certificate**
+>**School**
+**Secondary School Certificate**
 * Ispahani Public School and College, Chittagong
 * *Result: GPA 5.0 (out of 5.0)*
 
-><h2>Project</h2>
+><h2>Academic Project</h2>
 
 ><h2>Thesis</h2> 
 <div>
