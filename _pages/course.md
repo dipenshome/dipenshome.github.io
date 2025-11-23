@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Courses and Certifications"
+title: ""
 permalink: /course/
 author_profile: true
 ---
