@@ -4,7 +4,7 @@ title: "Courses and Certifications"
 permalink: /course/
 author_profile: true
 ---
-
+<hr>
 
 *  **Project Management Professional Certificate [Coursera]**
 
