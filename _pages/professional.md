@@ -6,6 +6,8 @@ author_profile: true
 ---
 <hr>
 
+**Work Experience**
+---
 1. Position: **Assistant Manager (Engineering)** 
     - **Company:** *Nuclear Power Plant Company Bangladesh Limited(NPCBL)* 
     - **Work Scope:** *Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity and its auxiliary equipment*
@@ -26,6 +28,7 @@ author_profile: true
     - gained hands-on knowledge on manufacturing of Distribution Transformer at *General Electric Manufacturing Company Limited (GEMCO), Chittagong, Bangladesh* as per the requirement of mandatory "Industrial Attachment" course at the University.
 
 **Professional Projects**
+---
 
 **Membership**
 ---
