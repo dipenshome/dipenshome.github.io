@@ -5,6 +5,7 @@ permalink: /professional/
 author_profile: true
 ---
 <h1>:construction_worker_man: **Professional Records** :construction_worker_man:</h1>
+<hr>
 
 1. Position: **Assistant Manager (Engineering)** 
     - **Company:** *Nuclear Power Plant Company Bangladesh Limited(NPCBL)* 
