@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Professional Records"
 permalink: /professional/
 author_profile: true
 ---
-:construction_worker_man: **Professional Experience** :construction_worker_man:
----
+<h1>:construction_worker_man: **Professional Records** :construction_worker_man:</h1>
 
 1. Position: **Assistant Manager (Engineering)** 
     - **Company:** *Nuclear Power Plant Company Bangladesh Limited(NPCBL)* 
@@ -26,6 +25,7 @@ author_profile: true
 *   **Industrial Trainee**
     - gained hands-on knowledge on manufacturing of Distribution Transformer at *General Electric Manufacturing Company Limited (GEMCO), Chittagong, Bangladesh* as per the requirement of mandatory "Industrial Attachment" course at the University.
 
+**Professional Projects**
 
 **Membership**
 ---
