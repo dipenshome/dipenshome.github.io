@@ -11,23 +11,23 @@ author_profile: true
 * Degree: **Bachelor of Science in Mechanical Engineering**
 * Major:   *Nuclear Engineering*  
 * Result:   GPA 0.0 (out of 4.0)
-* Year:     2012-2017
+* Year:     2012 - 2017
 * Location: Dhaka, Bangladesh
 
-><h3>Chittagong College, Chittagong</h3>
+><h3>Chittagong College</h3>
 
 * Degree: **Higher Secondary School Certificate**
 * Major:   *Science*
 * Result:   GPA 5.0 (out of 5.0)
-* Year:     2009-2011
+* Year:     2009 - 2011
 * Location: Chittagong, Bangladesh
 
-><h3>Ispahani Public School and College, Chittagongl</h3>
+><h3>Ispahani Public School and College</h3>
 
 * Degree: **Secondary School Certificate**
 * Major:   *Science*
 * Result:   GPA 5.0 (out of 5.0)
-* Year:     2004-2009
+* Year:     2004 - 2009
 * Location: Chittagong, Bangladesh
 
 <h2>Academic Project</h2>
