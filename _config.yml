@@ -24,9 +24,9 @@ author:
   avatar           : "Dipen Shome.png"
   name             : "DIPEN SHOME"
   pronouns         : # example: "she/her"  
-  bio              : "Mechanical Engineer | Technology Enthusiast | Gamer "
+  bio              : "Mechanical Engineer | Aspire to be a Researcher "
   location         : "Dhaka, Bangladesh"
-  employer         : "BUET"
+  employer         : "Bangladesh University of Engineering and Technology"
   uri              : # URL
   email            : "shomedipen@gmail.com" 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://bd.linkedin.com/in/dipenshome"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
