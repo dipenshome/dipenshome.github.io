@@ -4,7 +4,7 @@ title: "Academic Records"
 permalink: /academic/
 author_profile: true
 ---
-<hr style="background-color: #000000ff;">
+<hr>
 
 ><h3>Bangladesh University of Engineering and Technology (BUET), Dhaka</h3>
  
@@ -27,7 +27,8 @@ author_profile: true
 * Result:   GPA 5.0 (out of 5.0)
 * Year:     2004 - 2009
 
+\\
 <h1>Academic Project</h1>
-<hr style="background-color: #000000ff;">
+<hr>
 * Built a Quadcopter integrated with "Live Video Streaming" for Aerial Surveillance as a "Team Leader" of the project as per Instrumentation and Measurement Course (ME-361).
 

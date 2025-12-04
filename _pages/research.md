@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<hr style="background-color: #000000ff;">
 
 <h2>Thesis</h2>
 <hr>
