@@ -26,8 +26,7 @@ author_profile: true
 * Major:   *Science*
 * Result:   GPA 5.0 (out of 5.0)
 * Year:     2004 - 2009
-  
-  
+<br>
 <h1>Academic Project</h1>
 <hr>
 * Built a Quadcopter integrated with "Live Video Streaming" for Aerial Surveillance as a "Team Leader" of the project as per Instrumentation and Measurement Course (ME-361).
