@@ -28,6 +28,6 @@ author_profile: true
 * Year:     2004 - 2009
 
 <h1>Academic Project</h1>
-<hr>
+<hr style="background-color: #000000ff;">
 * Built a Quadcopter integrated with "Live Video Streaming" for Aerial Surveillance as a "Team Leader" of the project as per Instrumentation and Measurement Course (ME-361).
 
