@@ -27,7 +27,7 @@ author_profile: true
 * Result:   GPA 5.0 (out of 5.0)
 * Year:     2004 - 2009
 
-<h2>Academic Project</h2>
+<h1>Academic Project</h1>
 <hr>
-* Built a Quad-copter integrated with "Live Video Streaming" for Aerial Surveillance as a "Team Leader" of the project as per Instrumentation and Project Course.
+* Built a Quadcopter integrated with "Live Video Streaming" for Aerial Surveillance as a "Team Leader" of the project as per Instrumentation and Measurement Course (ME-361).
 
