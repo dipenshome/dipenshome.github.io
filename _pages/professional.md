@@ -27,18 +27,21 @@ author_profile: true
 *   **Industrial Trainee**
     - gained hands-on knowledge on manufacturing of Distribution Transformer at *General Electric Manufacturing Company Limited (GEMCO), Chittagong, Bangladesh* as per the requirement of mandatory "Industrial Attachment" course at the University.
 
+*   **Theoretical and Simulator Training on Fire Safety**
+    - gained introductory level theoretical and practical training on Fire Safety as part of Occupational Health and Safety (OHS) requirement.
+
+*   **Qualification Maintenance Training for Operations Personnel**
+    - Mandatory training for operations personnel at regular interval for the purpose of knowledge testing.  
+
 **Professional Projects**
 ---
-<!DOCTYPE html>
-<html lang="en">
-<body>
-    <div class="container">
-        <h2>Title: Presentation 1</h2>
-        <iframe src="https://1drv.ms/p/c/a0156c446a77c03c/IQTBFzKSELdjTZRS9lm3xXwdAVC7WP_EG1Zv8LzgtuNw7vI?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-    </div>
-</body>
-</html>
-
+1. Design, modification and development of prototype for Medium and High Voltage AIS and GIS.
+2. Installation and Commissioning of Steam Turbine.
+3. Installation and Commissioning of 1200 MW Generator.
+4. Installation and Commissioning of Feedwater Systems and its related equipment.
+5. Installation and Commissioning of Deaerator.
+6. Installation and Commissioning of High and Low Pressure Regeneration System.
+7. Installation and Commissioning of Condenser.
 
 **Membership**
 ---
