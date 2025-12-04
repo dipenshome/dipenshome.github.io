@@ -69,4 +69,3 @@ redirect_from:
   </div>
 </body>
 </html>
-
