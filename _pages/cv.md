@@ -8,14 +8,10 @@ redirect_from:
 ---
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Responsive PDF Embed</title>
   <style>
     body {
       margin: 0;
       padding: 0;
-      font-family: Arial, sans-serif;
     }
     /* Center container */
     .pdf-container {
@@ -45,17 +41,6 @@ redirect_from:
     }
     .fallback-link a:hover {
       text-decoration: underline;
-    }
-    /* 📱 Mobile adjustments */
-    @media (max-width: 768px) {
-      .pdf-container embed {
-        height: 70vh;   /* smaller height for tablets */
-      }
-    }
-    @media (max-width: 480px) {
-      .pdf-container embed {
-        height: 60vh;   /* even smaller height for phones */
-      }
     }
   </style>
 </head>
