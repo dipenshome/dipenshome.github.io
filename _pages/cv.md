@@ -62,7 +62,6 @@ redirect_from:
 
 <body>
   <div class="container">
-
     <!-- Embedded PDF using iframe -->
     <iframe
       src="https://dipenshome.github.io/files/CV_Dipen_Shome__ME_.pdf"
