@@ -18,9 +18,9 @@ author_profile: true
 <h2>Conference Paper</h2>
 <hr>
 
-**Conference:** International Congress on Advances in Nuclear Power Plants-2018, Charlotte, NC, April 8-11, 2018
-**Organizer:** American Nuclear Society (ANS)
-**Title:** Simulation of Steam Generator Tube Rupture Accident in a Pressurized Water Reactor
+**Conference:** International Congress on Advances in Nuclear Power Plants-2018, Charlotte, NC, April 8-11, 2018 \\
+**Organizer:** American Nuclear Society (ANS) \\
+**Title:** Simulation of Steam Generator Tube Rupture Accident in a Pressurized Water Reactor \\
 **Authors:** Dipen Shome, Professor Dr. M.A. Rashid Sarker
 <blockquote>
 <h3>Abstract</h3>
