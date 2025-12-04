@@ -18,10 +18,7 @@ main:
     url: /course/
 
   - title: "CV"
-    url: /files/CV_Dipen.pdf
-
-  - title: "Test Page"
-    url: /test/
+    url: /cv/
 
 # - title: "Coding"
 #   url: //
