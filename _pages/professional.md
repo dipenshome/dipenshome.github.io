@@ -35,13 +35,13 @@ author_profile: true
 
 **Professional Projects**
 ---
-1. Design, modification and development of prototype for Medium and High Voltage AIS and GIS.
-2. Installation and Commissioning of Steam Turbine.
-3. Installation and Commissioning of 1200 MW Generator.
-4. Installation and Commissioning of Feedwater Systems and its related equipment.
-5. Installation and Commissioning of Deaerator.
-6. Installation and Commissioning of High and Low Pressure Regeneration System.
-7. Installation and Commissioning of Condenser.
+*   **Design, modification and development of prototype for Medium and High Voltage AIS and GIS**
+*   **Installation and Commissioning of Steam Turbine**
+*   **Installation and Commissioning of 1200 MW Generator**
+*   **Installation and Commissioning of Feedwater Systems and its related equipment.**
+*   **Installation and Commissioning of Deaerator**
+*   **Installation and Commissioning of High and Low Pressure Regeneration System.**
+*   **Installation and Commissioning of Condenser**
 
 **Membership**
 ---
