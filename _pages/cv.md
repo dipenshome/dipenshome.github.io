@@ -18,7 +18,6 @@ redirect_from:
       font-family: Arial, sans-serif;
       background-color: #f4f4f4;
     }
-
     /* Center container */
     .pdf-container {
       display: flex;
@@ -27,7 +26,6 @@ redirect_from:
       align-items: center;
       padding: 20px;
     }
-
     /* Responsive iframe */
     .pdf-container iframe {
       width: 100%;
@@ -37,7 +35,6 @@ redirect_from:
       box-shadow: 0 0 10px rgba(0,0,0,0.2);
       background: #fff;
     }
-
     /* Fallback link styling */
     .fallback-link {
       margin-top: 15px;
@@ -55,12 +52,11 @@ redirect_from:
 <body>
   <div class="pdf-container">
     <!-- Embedded PDF -->
-    <iframe src="example.pdf"></iframe>
-
+    <iframe src="https://dipenshome.github.io/files/CV_Dipen_Shome__ME_.pdf"></iframe>
     <!-- Fallback download link -->
     <div class="fallback-link">
       <p>If the PDF doesn’t display, you can 
-         <a href="example.pdf" download>download it here</a>.
+         <a href="https://dipenshome.github.io/files/CV_Dipen_Shome__ME_.pdf"" download>download it here</a>.
       </p>
     </div>
   </div>
