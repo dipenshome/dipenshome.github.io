@@ -13,9 +13,9 @@ author_profile: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head> 
 <body>
-    <h2>Thesis</h2> 
-    <hr>
     <div>
+        <h2>Thesis</h2> 
+        <hr>
         <p style="font-size: 20px;">Title: <b>Design Basis Accident Analysis of Pressurized Water Nuclear Reactor</b></p>
         <p>Superviser: <b>Professor Dr. M.A. Rashid Sarker</b></p>
         <blockquote>
