@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2>Thesis</h2>
-<hr style="width:80%">
+<hr style="width:90%">
 
 **Title:**  Design Basis Accident Analysis of Pressurized Water Nuclear Reactor \\
 **Supervisor**: Professor Dr. M.A. Rashid Sarker
@@ -17,7 +17,7 @@ author_profile: true
 <p style="text-align: left; font-size: 14px;"><a href="https://dipenshome.github.io/files/Thesis-Final.pdf" target="_blank">Download Thesis in PDF</a></p>
 
 <h2>Conference Paper</h2>
-<hr style="width:80%">
+<hr style="width:90%">
 
 **Conference:** International Congress on Advances in Nuclear Power Plants-2018, Charlotte, NC \\
 **Organizer:** American Nuclear Society (ANS) \\
