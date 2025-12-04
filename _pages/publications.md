@@ -15,7 +15,6 @@ author_profile: true
   <title>Dipen Shome | Research Work</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: 20px;
     }
