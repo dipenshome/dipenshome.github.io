@@ -23,7 +23,7 @@ author_profile: true
       color: #2c3e50;
     }
     blockquote {
-      background: rgba(228, 228, 236, 0.99);
+      background: rgba(238, 238, 247, 0.99);
       padding: 10px;
       border-left: 4px solid #2c3e50;
       margin: 15px 0;
