@@ -18,7 +18,7 @@ main:
     url: /course/
 
   - title: "CV"
-    url: /files/CV_Dipen_Shome__ME_.pdf/
+    url: /"https://dipenshome.github.io/files/CV_Dipen_Shome__ME_.pdf"/
 
 # - title: "Coding"
 #   url: //
