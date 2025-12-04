@@ -6,9 +6,8 @@ author_profile: true
 ---
 <style>
 hr {
-height: 1px; /* Thickness of the line */
+height: 2px; /* Thickness of the line */
 background-color: #000000ff; /* Black background color */
-border: none; /* Removes default border */
 }
 </style>
 
