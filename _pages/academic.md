@@ -10,7 +10,6 @@ height: 2px; /* Thickness of the line */
 background-color: #000000ff; /* Black background color */
 }
 </style>
-
 <hr>
 
 ><h3>Bangladesh University of Engineering and Technology (BUET), Dhaka</h3>
