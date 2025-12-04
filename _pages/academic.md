@@ -4,13 +4,7 @@ title: "Academic Records"
 permalink: /academic/
 author_profile: true
 ---
-<style>
-hr {
-height: 2px; /* Thickness of the line */
-background-color: #000000ff; /* Black background color */
-}
-</style>
-<hr>
+<hr style="background-color: #000000ff;">
 
 ><h3>Bangladesh University of Engineering and Technology (BUET), Dhaka</h3>
  
