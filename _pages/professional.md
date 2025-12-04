@@ -31,44 +31,13 @@ author_profile: true
 ---
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test Page</title>
-    <style>
-        .container {
-            width: 80%;
-            margin-bottom: 20px;
-        }
-
-        h2 {
-            font-size: 24px;
-            margin-bottom: 10px;
-            text-align: left; /* Align title to the left */
-        }
-
-        iframe {
-            width: 600px; ;
-            height: 500px;
-            border: 2px solid #ccc;
-            margin-bottom: 20px;
-        }
-
-        @media (max-width: 768px) {
-            iframe {
-                height: 400px;
-            }
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <h2>Title: Presentation 1</h2>
-        <iframe src="https://1drv.ms/p/c/a0156c446a77c03c/IQTBFzKSELdjTZRS9lm3xXwdAVC7WP_EG1Zv8LzgtuNw7vI?em=2&amp;wdAr=1.7777777777777777"</iframe>
+        <iframe src="https://1drv.ms/p/c/a0156c446a77c03c/IQTBFzKSELdjTZRS9lm3xXwdAVC7WP_EG1Zv8LzgtuNw7vI?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
     </div>
 </body>
 </html>
-
 
 
 **Membership**
