@@ -34,7 +34,7 @@ author_profile: true
 <h2>Thesis</h2>
 <hr>
 
-**Title:**  Design Basis Accident Analysis of Pressurized Water Nuclear Reactor 
+**Title:**  Design Basis Accident Analysis of Pressurized Water Nuclear Reactor \\
 **Supervisor**: Professor Dr. M.A. Rashid Sarker
 <blockquote>
 <h3>Abstract</h3>
@@ -44,12 +44,12 @@ author_profile: true
 <h2>Conference Paper</h2>
 <hr>
 
-**Conference:** *International Congress on Advances in Nuclear Power Plants-2018, Charlotte, NC, April 8-11, 2018*
-**Organizer:** *American Nuclear Society (ANS)*
-**Title:** *Simulation of Steam Generator Tube Rupture Accident in a Pressurized Water Reactor*
-**Authors:** Dipen Shome, Professor Dr. M.A. Rashid Sarker
+**Conference:** *International Congress on Advances in Nuclear Power Plants-2018, Charlotte, NC, April 8-11, 2018* \\
+**Organizer:** *American Nuclear Society (ANS)* \\
+**Title:** *Simulation of Steam Generator Tube Rupture Accident in a Pressurized Water Reactor* \\
+**Authors:** Dipen Shome, Professor Dr. M.A. Rashid Sarker \\
 
 <blockquote>
 <h3>Abstract</h3>
-    <p align="justify"; style="font-size: 14px;">The objective of this paper is to present and analyze the results of simulated tube rupture accident in VVER-1000 Nuclear Reactor in PCTRAN. In simulating the accident, 100% of one full tube rupture has been considered. The simulation result shows that the core pressure experience a rapid decrease from initial value of 155 bar (15.5 MPa) and stabilize around 80 bar (8 MPa) after the accident. This leads to stopping coolant leakage from primary circuit to secondary circuit due to absence of pressure differential between primary and secondary loop. After the initiation of tube rupture, the leak from affected Steam Generator ‘A’ is about 3000 t/h (833.33 kg/s) which is reduced to approximately 500 t/h(138.89kg/s) within 200s of the accident. The result also shows that the reactor power (both ‘Thermal’ and ‘Nuclear Flux’) collapses drastically following reactor trip. Both High Pressure Injection (HPI) pump is activated following “Reactor Scram” to prevent core damage. The average temperature of coolant at the reactor inlet decreases from 580K to 560K to facilitate cooling down of the primary coolant. The data obtained from the simulation are satisfactorily consistent with PSAR (Preliminary Safety Assessment Report) data regarding SGTR accident. These findings are expected to provide useful information in understanding and evaluating plants capability to mitigate the consequence of SGTR accident.</p>
+    <p style="text-align: justify; font-size: 14px;">The objective of this paper is to present and analyze the results of simulated tube rupture accident in VVER-1000 Nuclear Reactor in PCTRAN. In simulating the accident, 100% of one full tube rupture has been considered. The simulation result shows that the core pressure experience a rapid decrease from initial value of 155 bar (15.5 MPa) and stabilize around 80 bar (8 MPa) after the accident. This leads to stopping coolant leakage from primary circuit to secondary circuit due to absence of pressure differential between primary and secondary loop. After the initiation of tube rupture, the leak from affected Steam Generator ‘A’ is about 3000 t/h (833.33 kg/s) which is reduced to approximately 500 t/h(138.89kg/s) within 200s of the accident. The result also shows that the reactor power (both ‘Thermal’ and ‘Nuclear Flux’) collapses drastically following reactor trip. Both High Pressure Injection (HPI) pump is activated following “Reactor Scram” to prevent core damage. The average temperature of coolant at the reactor inlet decreases from 580K to 560K to facilitate cooling down of the primary coolant. The data obtained from the simulation are satisfactorily consistent with PSAR (Preliminary Safety Assessment Report) data regarding SGTR accident. These findings are expected to provide useful information in understanding and evaluating plants capability to mitigate the consequence of SGTR accident.</p>
   </blockquote>
