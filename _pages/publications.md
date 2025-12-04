@@ -44,7 +44,6 @@ author_profile: true
     <h4>Citation</h4>
     <cite>"Simulation of Steam Generator Tube Rupture Accident in Pressurized Water Reactor" by D. Shome et al., published in the ICAPP 2018 proceedings, Charlotte, NC, April 8-11, 2018, Pgs. 893-899</cite> 
     </div>
-
 </body>
 </html>
 
