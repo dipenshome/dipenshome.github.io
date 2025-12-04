@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2>Thesis</h2>
-<hr>
+<hr style="width:80%";>
 
 **Title:**  Design Basis Accident Analysis of Pressurized Water Nuclear Reactor \\
 **Supervisor**: Professor Dr. M.A. Rashid Sarker
@@ -16,8 +16,9 @@ author_profile: true
   </blockquote>
 <p style="text-align: left; font-size: 14px;"><a href="https://dipenshome.github.io/files/Thesis-Final.pdf" target="_blank">Download Thesis in PDF</a> </p>
 
+\\
 <h2>Conference Paper</h2>
-<hr>
+<hr style="width:80%";>
 
 **Conference:** International Congress on Advances in Nuclear Power Plants-2018, Charlotte, NC \\
 **Organizer:** American Nuclear Society (ANS) \\
@@ -29,3 +30,14 @@ author_profile: true
   </blockquote>
 <p style="text-align: left; font-size: 14px;"><a href="https://dipenshome.github.io/files/250b-23826.pdf" target="_blank">Download Thesis in PDF</a> </p>
 
+\\
+**Conference:** 3rd International Conference on Mechanical Engineering and Applied Sciences-2025 \\
+**Organizer:**  Military Institute of Science and Technology (MIST), Dhaka, Bangladesh \\
+**Title:** Clean Energy to the People: How Solar PV Became One of the Most Affordable Energy Sources \\
+**Authors:** Subrato Roy, KM Galib, Suman Azad, Dipen Shome, Syed Salman Saeed, Md. Tanvir Siraj
+
+<blockquote>
+<h3>Abstract</h3>
+    <p style="text-align: justify; font-size: 14px; width: 80%;">This study analyzes the declining cost trends of solar photovoltaic (PV) installation and its impact on electricity generation affordability worldwide. Secondary data from the International Renewable Energy Agency (IRENA), specifically from the Renewable Capacity Statistics 2024 report, is utilized to examine global trends in solar PV deployment, cost reductions, and market expansion. A descriptive statistical approach is employed to assess historical and recent data, identifying key patterns and investment trajectories influencing solar energy growth. The findings reveal that from 2010 to 2022,the capital expenditure (CAPEX) for solar PV installation dropped from 5 , 124 p e r k W t o 876 per kW, marking an 83% cost reduction. Over the same period, the capacity factor increased from 14% to 17%, and the levelized cost of electricity (LCOE) decreased from 0.445 p e r k W h t o 0.049 per kWh, an 89% decline. The study highlights that 81% of global solar PV capacity is concentrated in just 10 countries, with China leading (43.16%),followed by the United States (9.75%), Japan (6.17%), Germany (5.79%), and India(5.15%). Additionally, the LCOE of solar PV became less than half the cost of fossil fuel-based power generation by 2022, where fossil fuel LCOE ranged between 0.15 t o 0.16per kWh. The total installed solar PV capacity grew from 40,277 MW in 2010 to 1,046,614MW in 2022, demonstrating exponential growth. Moreover, over the last 22 years, solar PV contributed to fuel cost savings of $27.16 billion, accounting for 16% of total savings from all renewable sources. These results underscore the increasing economic viability of solar PV and its crucial role in global energy transitions. The study provides valuable insights for policymakers, investors, and energy planners, supporting data-driven decision-making for expanding solar energy infrastructure and achieving sustainable energy goals.</p>
+  </blockquote>
+<p style="text-align: left; font-size: 14px;"><a href="https://dipenshome.github.io/files/250b-23826.pdf" target="_blank">Download Thesis in PDF</a> </p>
