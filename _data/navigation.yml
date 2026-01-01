@@ -8,23 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Academic"
+    url: /academic/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Professional"
+    url: /professional/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Research"
+    url: /research/ 
+
+  - title: "Courses and Certifications"
+    url: /course/
+
   - title: "CV"
-    url: /cv/
+    url: https://dipenshome.github.io/files/CV_Dipen_Shome__ME_.pdf
     
   # - title: "CV"
   #   url: /cv-json/
