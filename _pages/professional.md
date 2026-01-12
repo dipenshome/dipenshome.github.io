@@ -4,7 +4,7 @@ title: "Professional Records"
 permalink: /professional/
 author_profile: true
 ---
-<hr>
+---
 
 <div style="max-width: 800px; margin: 10px; text-align: justify;">
   <!-- Work Experience -->
