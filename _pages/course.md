@@ -4,6 +4,7 @@ title: "Courses and Certifications"
 permalink: /course/
 author_profile: true
 ---
+---
 
 <div style="max-width: 800px; margin: 10px; text-align: justify; font-size:18px;">
 <ul>
