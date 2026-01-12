@@ -9,6 +9,7 @@ author_profile: true
 <div style="max-width: 800px; margin: 10px; text-align: justify; font-size:16px;">
   <!-- Work Experience -->
     <h2>Work Experience</h2>
+    <hr>
     <ol>
       <li>
         <em>Position:</em><strong> Assistant Manager (Engineering)</strong> <br>
@@ -25,6 +26,7 @@ author_profile: true
     </ol>
   <!-- Training -->
     <h2>Training</h2>
+    <hr>
     <ul>
       <li>
         <strong>Lead Operations Engineer for Unit-1, Turbine Department</strong><br>
@@ -46,6 +48,7 @@ author_profile: true
     </ul>
   <!-- Professional Projects -->
     <h2>Professional Projects</h2>
+    <hr>
     <ul>
       <li>Design, modification and development of prototype for Medium and High Voltage AIS and GIS.</li>
       <li>Installation and Commissioning of Steam Turbine.</li>
@@ -57,6 +60,7 @@ author_profile: true
     </ul>
   <!-- Membership -->
     <h2>Membership</h2>
+    <hr>
     <ul>
       <li><em>Member</em> at <strong>American Society of Mechanical Engineers (ASME)</strong></li>
       <li><em>Member</em> at <strong>Nuclear Engineering Club, BUET</strong></li>
