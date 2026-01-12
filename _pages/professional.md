@@ -6,11 +6,13 @@ author_profile: true
 ---
 <hr>
 
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="description" content="Dipen Shome's Personal Webpage">
+    <meta name="keywords" content="Dipen, Shome">
+    <meta name="author" content="Dipen Shome">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       font-family: Arial, sans-serif;
