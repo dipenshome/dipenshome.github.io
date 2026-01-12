@@ -19,7 +19,6 @@ author_profile: true
     }
     ul {
       list-style-type: disc;
-      margin-left: 20px;
     }
     li {
       margin-bottom: 10px;
