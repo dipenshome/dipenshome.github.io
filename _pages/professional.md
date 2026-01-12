@@ -1,11 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Professional Records"
 permalink: /professional/
 author_profile: true
 redirect_from: 
   - /professional/
-  
+
 ---
 <hr>
 
