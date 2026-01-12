@@ -9,9 +9,7 @@ author_profile: true
   <h2>Thesis</h2>
   <hr>
   <p>
-    <strong>Title:</strong> Design Basis Accident Analysis of Pressurized Water Nuclear Reactor
-  </p>
-  <p>
+    <strong>Title:</strong> Design Basis Accident Analysis of Pressurized Water Nuclear Reactor <br>
     <strong>Supervisor:</strong> Professor Dr. M.A. Rashid Sarker
   </p>
   <blockquote>
@@ -24,16 +22,10 @@ author_profile: true
   <h2>Conference Paper</h2>
   <hr>
   <p>
-    <strong>Conference:</strong> International Congress on Advances in Nuclear Power Plants-2018, Charlotte, NC
-  </p>
-  <p>
-    <strong>Organizer:</strong> American Nuclear Society (ANS)
-  </p>
-  <p>
-    <strong>Title:</strong> Simulation of Steam Generator Tube Rupture Accident in a Pressurized Water Reactor
-  </p>
-  <p>
-    <strong>Authors:</strong> Dipen Shome, Professor Dr. M.A. Rashid Sarker
+    <strong>Conference #1:</strong> International Congress on Advances in Nuclear Power Plants-2018, Charlotte, NC<br>
+    <strong>Organizer:</strong> American Nuclear Society (ANS)<br>
+    <strong>Title:</strong> Simulation of Steam Generator Tube Rupture Accident in a Pressurized Water Reactor<br>
+    <strong>Authors:</strong> Dipen Shome, Professor Dr. M.A. Rashid Sarker<br>
   </p>
   <blockquote>
     <h3>Abstract</h3>
@@ -43,16 +35,10 @@ author_profile: true
     <a href="https://dipenshome.github.io/files/250b-23826.pdf" target="_blank">Download Paper in PDF</a>
   </p>
   <p>
-    <strong>Conference:</strong> 3rd International Conference on Mechanical Engineering and Applied Sciences-2025
-  </p>
-  <p>
-    <strong>Organizer:</strong> Military Institute of Science and Technology (MIST), Dhaka, Bangladesh
-  </p>
-  <p>
-    <strong>Title:</strong> Clean Energy to the People: How Solar PV Became One of the Most Affordable Energy Sources
-  </p>
-  <p>
-    <strong>Authors:</strong> Subrato Roy, KM Galib, Suman Azad, Dipen Shome, Syed Salman Saeed, Md. Tanvir Siraj
+    <strong>Conference #2:</strong> 3rd International Conference on Mechanical Engineering and Applied Sciences-2025<br>
+    <strong>Organizer:</strong> Military Institute of Science and Technology (MIST), Dhaka, Bangladesh<br>
+    <strong>Title:</strong> Clean Energy to the People: How Solar PV Became One of the Most Affordable Energy Sources<br>
+    <strong>Authors:</strong> Subrato Roy, KM Galib, Suman Azad, Dipen Shome, Syed Salman Saeed, Md. Tanvir Siraj<br>
   </p>
   <blockquote>
     <h3>Abstract</h3>
