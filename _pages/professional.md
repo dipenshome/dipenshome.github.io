@@ -5,26 +5,7 @@ permalink: /professional/
 author_profile: true
 ---
 
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      text-align: justify;
-    }
-    h2 {
-      border-bottom: 2px solid #333;
-      padding-bottom: 5px;
-    }
-    ul {
-      list-style-type: disc;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-<body>
-
+<div style="max-width: 800px; margin: auto; text-align: justify;">
   <!-- Work Experience -->
     <h2>Work Experience</h2>
     <ol>
@@ -41,7 +22,6 @@ author_profile: true
         <em>Duration:</em>   <strong>October 2017 - June 2019</strong>
       </li>
     </ol>
-
   <!-- Training -->
     <h2>Training</h2>
     <ul>
@@ -63,7 +43,6 @@ author_profile: true
         - Mandatory training for operations personnel at regular interval for the purpose of knowledge testing.
       </li>
     </ul>
-
   <!-- Professional Projects -->
     <h2>Professional Projects</h2>
     <ul>
@@ -75,12 +54,10 @@ author_profile: true
       <li>Installation and Commissioning of High and Low Pressure Regeneration System.</li>
       <li>Installation and Commissioning of Condenser.</li>
     </ul>
-
   <!-- Membership -->
     <h2>Membership</h2>
     <ul>
       <li><em>Member</em> at <strong>American Society of Mechanical Engineers (ASME)</strong></li>
       <li><em>Member</em> at <strong>Nuclear Engineering Club, BUET</strong></li>
     </ul>
-    
-</body>
+</div>
