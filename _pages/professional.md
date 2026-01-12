@@ -6,7 +6,7 @@ author_profile: true
 ---
 ---
 
-<div style="max-width: 800px; margin: 10px; text-align: justify;">
+<div style="max-width: 800px; margin: 10px; text-align: justify; font-size:16px;">
   <!-- Work Experience -->
     <h2>Work Experience</h2>
     <ol>
