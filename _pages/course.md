@@ -6,7 +6,7 @@ author_profile: true
 ---
 ---
 
-<div style="max-width: 800px; margin: 10px; text-align: justify; font-size:18px;">
+<div style="max-width: 800px; margin: 10px; text-align: justify; font-size:16px;">
 <ul>
   <li><strong>Project Management Professional Certificate [Coursera]</strong>
     <ul>
