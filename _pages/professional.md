@@ -14,7 +14,6 @@ author_profile: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
-      line-height: 1.6;
       text-align: justify;
     }
     h2 {
