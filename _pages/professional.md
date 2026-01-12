@@ -6,44 +6,97 @@ author_profile: true
 ---
 <hr>
 
-**Work Experience**
----
-1. Position: **Assistant Manager (Engineering)** 
-    - **Company:** *Nuclear Power Plant Company Bangladesh Limited(NPCBL)* 
-    - **Work Scope:** *Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity and its auxiliary equipment*
-    - **Duration:** *June 2019 - cont.*
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.6;
+    }
+    h2 {
+      border-bottom: 2px solid #333;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 20px;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
 
-2. Position: **Assistant Engineer (Switchgear R&D)**
-    - **Company:** Energypac Engineering Ltd.
-    - **Work Scope:** *worked as a R&D Engineer to design, manufacture and upgrade existing mechanical structure of 32kV Air Insulated Switchgear (AIS) and Gas Insulated       Switchgear (GIS)*
-    - **Duration:** *October 2017 - June 2019*
+  <!-- Work Experience -->
+  <section>
+    <h2>Work Experience</h2>
+    <ol>
+      <li>
+        <strong>Position:</strong> Assistant Manager (Engineering)<br>
+        <strong>Company:</strong> <em>Nuclear Power Plant Company Bangladesh Limited (NPCBL)</em><br>
+        <strong>Work Scope:</strong> <em>Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity and its auxiliary equipment</em><br>
+        <strong>Duration:</strong> <em>June 2019 - cont.</em>
+      </li>
+      <li>
+        <strong>Position:</strong> Assistant Engineer (Switchgear R&amp;D)<br>
+        <strong>Company:</strong> <em>Energypac Engineering Ltd.</em><br>
+        <strong>Work Scope:</strong> <em>Worked as a R&amp;D Engineer to design, manufacture and upgrade existing mechanical structure of 32kV Air Insulated Switchgear (AIS) and Gas Insulated Switchgear (GIS)</em><br>
+        <strong>Duration:</strong> <em>October 2017 - June 2019</em>
+      </li>
+    </ol>
+  </section>
 
-**Training**
----
-*  **Lead Operations Engineer for Unit-1, Turbine Department**
-    - completed training on ***"Installation, Operation and Maintenance of Steam Turbine and its auxiliary equipment"*** at *Rosatom Technical Academy, Russian Federation* 
-    - **Training Duration:** *September 2019 - November 2020 (14 Months)*
+  <!-- Training -->
+  <section>
+    <h2>Training</h2>
+    <ul>
+      <li>
+        <strong>Lead Operations Engineer for Unit-1, Turbine Department</strong><br>
+        Completed training on <em><strong>"Installation, Operation and Maintenance of Steam Turbine and its auxiliary equipment"</strong></em> at <em>Rosatom Technical Academy, Russian Federation</em><br>
+        <strong>Training Duration:</strong> <em>September 2019 - November 2020 (14 Months)</em>
+      </li>
+      <li>
+        <strong>Industrial Trainee</strong><br>
+        Gained hands-on knowledge on manufacturing of Distribution Transformer at <em>General Electric Manufacturing Company Limited (GEMCO), Chittagong, Bangladesh</em> as per the requirement of mandatory "Industrial Attachment" course at the University.
+      </li>
+      <li>
+        <strong>Theoretical and Simulator Training on Fire Safety</strong><br>
+        Gained introductory level theoretical and practical training on Fire Safety as part of Occupational Health and Safety (OHS) requirement.
+      </li>
+      <li>
+        <strong>Qualification Maintenance Training for Operations Personnel</strong><br>
+        Mandatory training for operations personnel at regular interval for the purpose of knowledge testing.
+      </li>
+    </ul>
+  </section>
 
-*   **Industrial Trainee**
-    - gained hands-on knowledge on manufacturing of Distribution Transformer at *General Electric Manufacturing Company Limited (GEMCO), Chittagong, Bangladesh* as per the requirement of mandatory "Industrial Attachment" course at the University.
+  <!-- Professional Projects -->
+  <section>
+    <h2>Professional Projects</h2>
+    <ul>
+      <li>Design, modification and development of prototype for Medium and High Voltage AIS and GIS.</li>
+      <li>Installation and Commissioning of Steam Turbine.</li>
+      <li>Installation and Commissioning of 1200 MW Generator.</li>
+      <li>Installation and Commissioning of Feedwater Systems and its related equipment.</li>
+      <li>Installation and Commissioning of Deaerator.</li>
+      <li>Installation and Commissioning of High and Low Pressure Regeneration System.</li>
+      <li>Installation and Commissioning of Condenser.</li>
+    </ul>
+  </section>
 
-*   **Theoretical and Simulator Training on Fire Safety**
-    - gained introductory level theoretical and practical training on Fire Safety as part of Occupational Health and Safety (OHS) requirement.
+  <!-- Membership -->
+  <section>
+    <h2>Membership</h2>
+    <ul>
+      <li><em>Member</em> at <strong>American Society of Mechanical Engineers (ASME)</strong></li>
+      <li><em>Member</em> at <strong>Nuclear Engineering Club, BUET</strong></li>
+    </ul>
+  </section>
 
-*   **Qualification Maintenance Training for Operations Personnel**
-    - Mandatory training for operations personnel at regular interval for the purpose of knowledge testing.  
-
-**Professional Projects**
----
-*   Design, modification and development of prototype for Medium and High Voltage AIS and GIS.
-*   Installation and Commissioning of Steam Turbine.
-*   Installation and Commissioning of 1200 MW Generator.
-*   Installation and Commissioning of Feedwater Systems and its related equipment.
-*   Installation and Commissioning of Deaerator.
-*   Installation and Commissioning of High and Low Pressure Regeneration System.
-*   Installation and Commissioning of Condenser.
-
-**Membership**
----
-*   *Member* at **American Society of Mechanical Engineers (ASME)**
-*   *Member* at **Nuclear Engineering Club, BUET**
+</body>
+</html>
