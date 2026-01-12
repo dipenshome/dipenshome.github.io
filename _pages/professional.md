@@ -9,7 +9,7 @@ author_profile: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
-      margin: 20px;
+      margin: 10px;
       margin-left: 50px;
       text-align: justify;
     }
