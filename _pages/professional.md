@@ -5,7 +5,7 @@ permalink: /professional/
 author_profile: true
 redirect_from: 
   - /professional/
-  - /professional.html
+  
 ---
 <hr>
 
