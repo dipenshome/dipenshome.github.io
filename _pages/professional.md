@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Professional Records"
 permalink: /professional/
 author_profile: true
@@ -9,8 +9,6 @@ author_profile: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
-      margin: 10px;
-      margin-left: 50px;
       text-align: justify;
     }
     h2 {
@@ -28,7 +26,6 @@ author_profile: true
 <body>
 
   <!-- Work Experience -->
-  <section>
     <h2>Work Experience</h2>
     <ol>
       <li>
@@ -44,10 +41,8 @@ author_profile: true
         <em>Duration:</em>   <strong>October 2017 - June 2019</strong>
       </li>
     </ol>
-  </section>
 
   <!-- Training -->
-  <section>
     <h2>Training</h2>
     <ul>
       <li>
@@ -68,10 +63,8 @@ author_profile: true
         - Mandatory training for operations personnel at regular interval for the purpose of knowledge testing.
       </li>
     </ul>
-  </section>
 
   <!-- Professional Projects -->
-  <section>
     <h2>Professional Projects</h2>
     <ul>
       <li>Design, modification and development of prototype for Medium and High Voltage AIS and GIS.</li>
@@ -82,15 +75,12 @@ author_profile: true
       <li>Installation and Commissioning of High and Low Pressure Regeneration System.</li>
       <li>Installation and Commissioning of Condenser.</li>
     </ul>
-  </section>
 
   <!-- Membership -->
-  <section>
     <h2>Membership</h2>
     <ul>
       <li><em>Member</em> at <strong>American Society of Mechanical Engineers (ASME)</strong></li>
       <li><em>Member</em> at <strong>Nuclear Engineering Club, BUET</strong></li>
     </ul>
-  </section>
-
+    
 </body>
