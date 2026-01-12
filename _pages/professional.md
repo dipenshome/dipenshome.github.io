@@ -4,7 +4,6 @@ title: "Professional Records"
 permalink: /professional/
 author_profile: true
 ---
-<hr>
 
 <html>
 <head>
@@ -17,6 +16,7 @@ author_profile: true
     body {
       margin: 20px;
       line-height: 1.6;
+      text-align: justify;
     }
     h2 {
       border-bottom: 2px solid #333;
@@ -38,9 +38,9 @@ author_profile: true
     <h2>Work Experience</h2>
     <ol>
       <li>
-        <strong>Position:</strong> Assistant Manager (Engineering)<br>
-        <strong>Company:</strong> <em>Nuclear Power Plant Company Bangladesh Limited (NPCBL)</em><br>
-        <strong>Work Scope:</strong> <em>Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity and its auxiliary equipment</em><br>
+        Position:<strong>Assistant Manager (Engineering)</strong> <br>
+        Company:<strong>Nuclear Power Plant Company Bangladesh Limited (NPCBL)</strong> <br>
+        Work Scope:<strong><em>Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity and its auxiliary equipment</em></strong> <br>
         <strong>Duration:</strong> <em>June 2019 - cont.</em>
       </li>
       <li>
