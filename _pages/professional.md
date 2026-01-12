@@ -5,12 +5,7 @@ permalink: /professional/
 author_profile: true
 ---
 
-<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="description" content="Dipen Shome's Personal Webpage">
-    <meta name="keywords" content="Dipen, Shome">
-    <meta name="author" content="Dipen Shome">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
@@ -100,4 +95,3 @@ author_profile: true
   </section>
 
 </body>
-</html>
