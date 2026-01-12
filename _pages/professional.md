@@ -38,16 +38,16 @@ author_profile: true
     <h2>Work Experience</h2>
     <ol>
       <li>
-        - <em>Position:</em><strong> Assistant Manager (Engineering)</strong> <br>
-        - <em>Company:</em><strong> Nuclear Power Plant Company Bangladesh Limited (NPCBL)</strong> <br>
-        - <em>Work Scope:</em><strong> Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity and its auxiliary equipment</strong><br>
-        - <em>Duration:</em>   <strong> June 2019 - cont.</strong>
+        <em>Position:</em><strong> Assistant Manager (Engineering)</strong> <br>
+        <em>Company:</em><strong> Nuclear Power Plant Company Bangladesh Limited (NPCBL)</strong> <br>
+        <em>Work Scope:</em><strong> Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity and its auxiliary equipment</strong><br>
+        <em>Duration:</em>   <strong> June 2019 - cont.</strong>
       </li>
       <li>
-        - <em>Position:</em><strong> Assistant Engineer (Switchgear R&amp;D)</strong> <br>
-        - <em>Company:</em><strong> Energypac Engineering Ltd.</strong> <br>
-        - <em>Work Scope:</em><strong> Worked as a R&amp;D Engineer to design, manufacture and upgrade existing mechanical structure of 32kV Air Insulated Switchgear (AIS) and Gas Insulated Switchgear (GIS)</strong><br>
-        - <em>Duration:</em>   <strong>October 2017 - June 2019</strong>
+        <em>Position:</em><strong> Assistant Engineer (Switchgear R&amp;D)</strong> <br>
+        <em>Company:</em><strong> Energypac Engineering Ltd.</strong> <br>
+        <em>Work Scope:</em><strong> Worked as a R&amp;D Engineer to design, manufacture and upgrade existing mechanical structure of 32kV Air Insulated Switchgear (AIS) and Gas Insulated Switchgear (GIS)</strong><br>
+        <em>Duration:</em>   <strong>October 2017 - June 2019</strong>
       </li>
     </ol>
   </section>
