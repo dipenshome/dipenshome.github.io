@@ -15,7 +15,7 @@ author_profile: true
   <style>
     body {
       margin: 20px;
-      margin-left: 20px;
+      margin-left: 50px;
       text-align: justify;
     }
     h2 {
