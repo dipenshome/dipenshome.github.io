@@ -38,10 +38,10 @@ author_profile: true
     <h2>Work Experience</h2>
     <ol>
       <li>
-        Position:<strong>Assistant Manager (Engineering)</strong> <br>
-        Company:<strong>Nuclear Power Plant Company Bangladesh Limited (NPCBL)</strong> <br>
-        Work Scope:<strong><em>Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity and its auxiliary equipment</em></strong> <br>
-        <strong>Duration:</strong> <em>June 2019 - cont.</em>
+        <em>Position:</em>   <strong>Assistant Manager (Engineering)</strong> <br>
+        <em>Company:</em>    <strong>Nuclear Power Plant Company Bangladesh Limited (NPCBL)</strong> <br>
+        <em>Work Scope:</em> <strong>Installation, Commissioning, Operation and Maintenance of Steam Turbine of 1200 MW Capacity and its auxiliary equipment</strong><br>
+        <em>Duration:</em>   <strong>June 2019 - cont.</strong>
       </li>
       <li>
         <strong>Position:</strong> Assistant Engineer (Switchgear R&amp;D)<br>
