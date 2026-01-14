@@ -40,3 +40,38 @@ author_profile: true
   <ul>
     <li>Built a Quadcopter integrated with "Live Video Streaming" for Aerial Surveillance as a "Team Leader" of the project as per Instrumentation and Measurement Course (ME-361).</li>
   </ul>
+  <h1> Courses and Certifications</h1>
+  <hr>
+  <ol>
+    <li>
+      <strong>Fundamentals of Project Management</strong>- <em>Google Inc.</em> [ <a href="https://www.coursera.org/account/accomplishments/certificate/UD7KBD2HC47Y" target="_blank">Certificate</a>]
+    </li>
+    <li>
+      <strong>Project Initiation: Starting a Successful Project</strong>- <em>Google Inc.</em> [ <a href="https://www.coursera.org/account/accomplishments/certificate/DVRP087YOUFF" target="_blank">Certificate</a>]
+    </li>
+    <li>
+      <strong>Programming for Everybody (Getting Started with Python)</strong>- <em>University of Michigan</em> [ <a href="https://www.coursera.org/account/accomplishments/certificate/P63V7M5Z8QLT" target="_blank">Certificate</a>]
+    </li>
+    <li>
+      <strong>Python Data Structures</strong>- <em>University of Michigan</em> [ <a href="https://www.coursera.org/account/accomplishments/certificate/DVRP087YOUFF" target="_blank">Certificate</a>]
+    </li>
+    <li>
+      <strong>Using Python to Access Web Data</strong>- <em>University of Michigan</em> [ <a href="https://www.coursera.org/account/accomplishments/certificate/PC6ELRQGNJSA" target="_blank">Certificate</a>]
+    </li>
+    <li>
+      <strong>Python Basics for Data Science</strong>- <em>IBM</em> [ <a href="https://courses.edx.org/certificates/1aea648ad7b14ea6b15999cdb3206679" target="_blank">Certificate</a>]
+    </li>
+    <li>
+      <strong>Probability & Statistics for Machine Learning & Data Science</strong>- <em>DeepLearning.AI</em> [ <a href="https://www.coursera.org/account/accomplishments/certificate/T52HEQSE57G7" target="_blank">Certificate</a>]
+    </li>
+    <li>
+      <strong>Introduction to Artificial Intelligence</strong>- <em>IBM</em> [ <a href="https://www.coursera.org/account/accomplishments/certificate/QHIL2OS1O769" target="_blank">Certificate</a>]
+    </li>
+    <li>
+      <strong>AI for Mechanical Engineers (Design and Optimization)</strong>- <em>University of Michigan</em> [ <a href="https://www.coursera.org/account/accomplishments/certificate/IO66AOCOAZAK" target="_blank">Certificate</a>]
+    </li>
+    <li>
+      <strong>Introduction to Additive Manufacturing Process- Arizona State University</strong>- <em>Arizona State University</em>
+    </li>
+  </ol>
+</div>
