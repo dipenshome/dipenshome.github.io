@@ -7,36 +7,26 @@ author_profile: true
 ---
 
 <div style="max-width: 800px; text-align: justify; font-size:16px;">
-<ul>
-  <li><strong>Project Management Professional Certificate [Coursera]</strong>
-    <ul>
-      <li>This course is offered by Google Career. The course comprises of 5 modules. I successfully completed 2 of them.
-        <ol>
-          <li><em><strong>Fundamentals of Project Management</strong></em> [<a href="https://dipenshome.github.io/files/Coursera-UD7KBD2HC47Y.pdf" target="_blank">Certificate</a>]</li>
-          <li><em><strong>Project Initiation: Starting a Successful Project</strong></em> [<a href="https://dipenshome.github.io/files/Coursera-FYCW8USXDCXF.pdf" target="_blank">Certificate</a>]</li>
-        </ol>
-      </li>
-    </ul>
-  </li>
+<ol> 
+  <li><strong>Fundamentals of Project Management</strong>- <em>Google Inc.</em> [<a href="https://www.coursera.org/account/accomplishments/certificate/UD7KBD2HC47Y" target="_blank">Certificate</a>]</li>
+  
+  <li><strong>Project Initiation: Starting a Successful Project</strong>- <em>Google Inc.</em> [<a href="https://www.coursera.org/account/accomplishments/certificate/DVRP087YOUFF" target="_blank">Certificate</a>]</li>
+          
+  <li><strong>Programming for Everybody (Getting Started with Python)</strong>- <em>University of Michigan</em> [<a href="https://www.coursera.org/account/accomplishments/certificate/P63V7M5Z8QLT" target="_blank">Certificate</a>]</li>
+  
+  <li><strong>Python Data Structures</strong>- <em>University of Michigan</em> [<a href="https://www.coursera.org/account/accomplishments/certificate/DVRP087YOUFF" target="_blank">Certificate</a>]</li>
+  
+  <li><strong>Using Python to Access Web Data</strong>- <em>University of Michigan</em> [<a href="https://www.coursera.org/account/accomplishments/certificate/PC6ELRQGNJSA" target="_blank">Certificate</a>]</li>
 
-  <li><strong>Programming for Everybody (Python Specialization) [Coursera]</strong>
-    <ul>
-      <li>This is an introductory level course dedicated for Python Programming Language offered by <em>University of Michigan (UoM)</em>. The course comprises of 5 modules. I successfully completed 3 of them.
-        <ol>
-          <li><em><strong>Programming for Everybody (Getting Started with Python)</strong></em> [<a href="https://dipenshome.github.io/files/Coursera-P63V7M5Z8QLT.pdf" target="_blank">Certificate</a>]</li>
-          <li><em><strong>Python Data Structures</strong></em> [<a href="https://dipenshome.github.io/files/Coursera-DVRP087YOUFF.pdf" target="_blank">Certificate</a>]</li>
-          <li><em><strong>Using Python to Access Web Data</strong></em> [<a href="https://dipenshome.github.io/files/Coursera-PC6ELRQGNJSA.pdf" target="_blank">Certificate</a>]</li>
-        </ol>
-      </li>
-    </ul>
-  </li>
+  <li><strong>Python Basics for Data Science</strong>- <em>IBM</em> [<a href="https://courses.edx.org/certificates/1aea648ad7b14ea6b15999cdb3206679" target="_blank">Certificate</a>]</li>
 
-  <li><strong>Python Basics for Data Science [edX]</strong></li>
+  <li><strong>Probability & Statistics for Machine Learning & Data Science</strong>- <em>DeepLearning.AI</em> [<a href="https://www.coursera.org/account/accomplishments/certificate/T52HEQSE57G7" target="_blank">Certificate</a>]</li>
 
-  <li><strong>Probability &amp; Statistics for Machine Learning &amp; Data Science [Coursera]</strong></li>
+  <li><strong>Introduction to Artificial Intelligence</strong>- <em>IBM</em> [<a href="https://www.coursera.org/account/accomplishments/certificate/QHIL2OS1O769" target="_blank">Certificate</a>]</li>
 
-  <li><strong>Introduction to Artificial Intelligence [Coursera]</strong></li>
+  <li><strong>AI for Mechanical Engineers (Design and Optimization)</strong>- <em>University of Michigan</em> [<a href="https://www.coursera.org/account/accomplishments/certificate/IO66AOCOAZAK" target="_blank">Certificate</a>]</li>
 
-  <li><strong>AI for Design and Optimization [Coursera]</strong></li>
+  <li><strong></strong></li>
 </ul>
 </div>
+
