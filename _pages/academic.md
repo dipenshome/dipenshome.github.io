@@ -40,6 +40,7 @@ author_profile: true
   <ul>
     <li>Built a Quadcopter integrated with "Live Video Streaming" for Aerial Surveillance as a "Team Leader" of the project as per Instrumentation and Measurement Course (ME-361).</li>
   </ul>
+  <br>
   <h1> Courses and Certifications</h1>
   <hr>
   <ol>
