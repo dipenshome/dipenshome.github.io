@@ -17,9 +17,6 @@ main:
   - title: "Research"
     url: /research/ 
 
-  - title: "Courses and Certifications"
-    url: /course/
-
   - title: "CV"
     url: /cv/
     
