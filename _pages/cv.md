@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<div style="max-width: 800px; margin: 10px; text-align: justify; font-size:16px;">
+<div style="max-width: 800px; text-align: justify; font-size:16px;">
   <!-- Inline PDF viewer -->
   <iframe src="{{ '/files/CV_Dipen_Shome.pdf' | relative_url }}" width="100%" height="800" style="border:none;"></iframe>
   <!-- Fallback link -->
