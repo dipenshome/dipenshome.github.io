@@ -1,18 +1,16 @@
-# Personal Academic Pages
-**Welcome to my personal academic webpage. This is bulit using "Academic Pages" a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Personal Academic Webpage
+**This webpage is intended for showcasing my academic as well as professional achievements. This is bulit using "Academic Pages", a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 ![Homepage](images/Homepage.jpeg "Homepage")  
 
-See more info at https://academicpages.github.io/
+**You can build your own portfolio by forking this repository [Academic Pages](https://academicpages.github.io/)**
 
 ---
-<div align="center">
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
+<div align="center">
+  
 [![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
-
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
+
 </div>
