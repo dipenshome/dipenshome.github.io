@@ -9,7 +9,7 @@ author_profile: true
   <!-- Work Experience -->
     <h2>Work Experience</h2>
     <hr>
-    <ol>
+    <ul>
       <li>
         <em>Position:</em><strong> Assistant Manager (Engineering)</strong> <br>
         <em>Company:</em><strong> Nuclear Power Plant Company Bangladesh Limited (NPCBL)</strong> <br>
@@ -22,7 +22,7 @@ author_profile: true
         <em>Work Scope:</em><strong> Worked as a R&amp;D Engineer to design, manufacture and upgrade existing mechanical structure of 32kV Air Insulated Switchgear (AIS) and Gas Insulated Switchgear (GIS)</strong><br>
         <em>Duration:</em>   <strong>October 2017 - June 2019</strong>
       </li>
-    </ol>
+    </ul>
   <!-- Training -->
     <h2>Training</h2>
     <hr>
