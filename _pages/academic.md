@@ -37,13 +37,18 @@ author_profile: true
   <br>
   <h1>Standardized Test Scores</h1>
   <hr>
-  <strong>1. GRE (General Test)</strong>
-  <br>
-  <span>•&nbsp; Test Score: 318</span> &nbsp;•&nbsp; <span>Verbal: 157</span> &nbsp;•&nbsp; <span>Quant: 161</span> &nbsp;•&nbsp; <span>AWA: 4.0</span>
-  <br>
-  <strong>2. IELTS (Academic)</strong>
-  <br>
-  <span>• &nbsp;Overall Band Score: 7.5</span> &nbsp;•&nbsp; <span>Listening: 8.0</span> &nbsp;•&nbsp; <span>Reading: 8.5</span> &nbsp;•&nbsp; <span>Writing: 7.0</span> &nbsp;•&nbsp; <span>Speaking: 7.0</span>
+  <ol>
+    <li>
+      <strong>GRE (General Test)</strong>
+      <br>
+      <span>•&nbsp; Test Score: 318</span> &nbsp;•&nbsp; <span>Verbal: 157</span> &nbsp;•&nbsp; <span>Quant: 161</span> &nbsp;•&nbsp; <span>AWA: 4.0</span>
+    </li>
+    <li>
+      <strong>IELTS (Academic)</strong>
+      <br>
+      <span>• &nbsp;Overall Band Score: 7.5</span> &nbsp;•&nbsp; <span>Listening: 8.0</span> &nbsp;•&nbsp; <span>Reading: 8.5</span> &nbsp;•&nbsp; <span>Writing: 7.0</span> &nbsp;•&nbsp; <span>Speaking: 7.0</span>
+    </li>
+  </ol>
   <br>
   <h1>Academic Project</h1>
   <hr>
