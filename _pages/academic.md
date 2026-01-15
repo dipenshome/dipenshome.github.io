@@ -43,7 +43,7 @@ author_profile: true
   <br>
   <strong>2. IELTS (Academic)</strong>
   <br>
-  <span>• &nbsp;Band Score: 7.5</span> &nbsp;•&nbsp; <span>Listening: 8.0</span> &nbsp;•&nbsp; <span>Reading: 8.5</span> &nbsp;•&nbsp; <span>Writing: 7.5</span> &nbsp;•&nbsp; <span>Speaking: 7.0</span>
+  <span>• &nbsp;Overall Band Score: 7.5</span> &nbsp;•&nbsp; <span>Listening: 8.0</span> &nbsp;•&nbsp; <span>Reading: 8.5</span> &nbsp;•&nbsp; <span>Writing: 7.0</span> &nbsp;•&nbsp; <span>Speaking: 7.0</span>
   <br>
   <h1>Academic Project</h1>
   <hr>
